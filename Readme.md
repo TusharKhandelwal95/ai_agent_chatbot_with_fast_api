@@ -1,4 +1,4 @@
-# Personal Agentic AI Chatbot – GenAI Application (Production Ready)
+# Personal Agentic AI Chatbot – GenAI Application 
 
 This project is a production-ready **Personal Agentic AI Chatbot** that leverages cutting-edge technologies and models for intelligent responses. It integrates LangGraph ReAct agents with Groq and OpenAI LLMs to deliver robust and efficient interactions.
 
